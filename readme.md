@@ -130,6 +130,12 @@ FRONTEND_URL=http://localhost:5173
 
 </div>
 
+## 🎥 Demo Video
+
+<video width="700" controls>
+  <source src="videos/20251031195137.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
