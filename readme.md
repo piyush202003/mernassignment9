@@ -135,15 +135,7 @@ FRONTEND_URL=http://localhost:5173
 
 ## 🎥 Demo Video
 
-<div align="center">
+[![Watch the Demo Video](https://img.icons8.com/ios-filled/100/000000/video.png)](main/videos/20251031195137.mp4)
 
-Below is a short demo showcasing the major features and working of the **Visitor Pass Management System**:
-
-<video width="700" controls style="border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.2);">
-  <source src="videos/20251031195137.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-</div>
 
 
